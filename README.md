@@ -26,7 +26,6 @@ The Contact Management Application demonstrates how to build a robust full-stack
 - **Database**: MySQL (or any preferred RDBMS)
 - **Build Tool**: Maven
 - **CSS Framework**: Bootstrap/Tailwind CSS (optional)
-- **Testing**: JUnit, Mockito (Backend), React Testing Library (Frontend)
 
 ## Setup Instructions
 
