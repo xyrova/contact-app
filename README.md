@@ -1,6 +1,3 @@
-# contact-app
-This application works as a phonebook with images.
-=======
 # Contact Management Application
 
 This repository contains a full-stack web application built with **Spring Boot** and **ReactJS** that allows users to manage contact information. The application supports creating, updating, and deleting contact records, as well as uploading and displaying profile photos.
